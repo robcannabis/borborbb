@@ -37,7 +37,7 @@ client.on('ready', async () => {
     const change = ['https://cdn.discordapp.com/attachments/1213355430622003281/1235105375078977619/vabwzc.gif?ex=66332904&is=6631d784&hm=0bd695cb7791cd6c3c55077aa46ae02cd81569aa5587ce3a6dcc6ff62a81df6f&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
-    const yyyt = ['♥ JOIN SERVER's ˎˊ˗']; // ชื่อ button1
+    const yyyt = ['♥ JOIN SERVER`s ˎˊ˗']; // ชื่อ button1
     const ddds = ['https://discord.gg/f9WPDnTRcb']; // ลิ้ง button1
 
    const iooi = ['INSTAGRAM ꒰♡꒱']; // ชื่อ button 2
